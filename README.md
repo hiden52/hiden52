@@ -5,7 +5,6 @@
 - 📫 How to reach me ...
 
 
-<script src="https://gist.github.com/hiden52/71a9e5b1554be11bc279223b43802d7c.js"></script>
 
 
 [![hiden52's GitHub stats](https://github-readme-stats.vercel.app/api?username=hiden52)](https://github.com/anuraghazra/github-readme-stats)
