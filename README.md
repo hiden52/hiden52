@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hiden52
 - 👀 I’m interested in Game development and Web and Android app development
-- 🌱 I’m currently learning Javascript, DirectX
+- 🌱 I’m currently learning Unity
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
